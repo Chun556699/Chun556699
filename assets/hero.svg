@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Chunfei — AI Systems and Product Engineering</title>
+  <desc id="desc">Dark developer console banner with violet and cyan accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B12"/>
+      <stop offset="0.55" stop-color="#0D1220"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(258 70) rotate(34) scale(460 245)">
+      <stop stop-color="#7C3AED" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientTransform="translate(1050 316) rotate(-145) scale(420 225)">
+      <stop stop-color="#06B6D4" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".07"/>
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#violet)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#cyan)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="url(#grid)" stroke="#A78BFA" stroke-opacity=".22"/>
+
+  <g transform="translate(50 42)">
+    <rect width="1100" height="276" rx="18" fill="#080C15" fill-opacity=".72" stroke="#94A3B8" stroke-opacity=".16"/>
+    <path d="M0 48H1100" stroke="#94A3B8" stroke-opacity=".12"/>
+    <circle cx="24" cy="24" r="5" fill="#FB7185"/>
+    <circle cx="43" cy="24" r="5" fill="#FBBF24"/>
+    <circle cx="62" cy="24" r="5" fill="#34D399"/>
+    <text x="550" y="29" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">chunfei.dev / profile</text>
+
+    <g transform="translate(52 88)">
+      <text fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">01</text>
+      <text x="48" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">const</text>
+      <text x="102" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">engineer</text>
+      <text x="188" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">=</text>
+      <text x="208" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">{</text>
+
+      <text y="92" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">CHUNFEI</text>
+      <rect y="111" width="416" height="4" rx="2" fill="url(#line)" filter="url(#glow)"/>
+      <text y="149" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="21" letter-spacing="2">AI SYSTEMS  ·  FULL-STACK PRODUCTS</text>
+      <text y="184" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">RAG / AGENTS / MODEL GATEWAYS / PRODUCT ENGINEERING</text>
+
+      <g transform="translate(740 6)">
+        <circle cx="104" cy="86" r="74" fill="none" stroke="#8B5CF6" stroke-opacity=".28"/>
+        <circle cx="104" cy="86" r="50" fill="none" stroke="#22D3EE" stroke-opacity=".28" stroke-dasharray="6 8"/>
+        <path d="M104 12V160M30 86H178" stroke="#64748B" stroke-opacity=".24"/>
+        <circle cx="104" cy="86" r="12" fill="#A78BFA" fill-opacity=".18" stroke="#C4B5FD"/>
+        <circle cx="104" cy="12" r="5" fill="#22D3EE"/>
+        <circle cx="178" cy="86" r="5" fill="#A78BFA"/>
+        <circle cx="104" cy="160" r="5" fill="#22D3EE"/>
+        <circle cx="30" cy="86" r="5" fill="#A78BFA"/>
+        <text x="104" y="91" text-anchor="middle" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">SHIP</text>
+      </g>
+
+      <text y="216" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">02</text>
+      <text x="48" y="216" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">status:</text>
+      <circle cx="121" cy="211" r="4" fill="#34D399"/>
+      <text x="134" y="216" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">building useful things</text>
+      <text x="339" y="216" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">};</text>
+    </g>
+  </g>
+</svg>
+
