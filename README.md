@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Chunfei
+## Hi, I'm Chun
 
 I build useful AI products and developer tools — from model integrations and knowledge retrieval to desktop utilities and full-stack applications.
 
