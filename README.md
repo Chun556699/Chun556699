@@ -6,47 +6,48 @@
 
 <div align="center">
   <a href="https://github.com/Chun556699?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://www.mychun.cn"><img src="https://img.shields.io/badge/Read_the_Blog-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Read Chunfei's blog" /></a>
   <a href="mailto:chun556699@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chunfei" /></a>
 </div>
 
-## Hello, I'm Chunfei 👋
+## Hi, I'm Chunfei
 
-I build **AI systems that become usable products** — from retrieval, agents and model gateways to polished full-stack experiences.
+I build useful AI products and developer tools — from model integrations and knowledge retrieval to desktop utilities and full-stack applications.
 
-我是一名专注于 **AI 应用工程与全栈产品化** 的软件工程师。比起只做一个 Demo，我更在意完整链路：架构、可靠性、交互、部署，以及产品是否真正可用。
+我专注于 **AI 应用工程与全栈产品化**，关注的不只是模型能力，也包括系统可靠性、交互体验与真正可用的交付。
 
 ```text
 CURRENT FOCUS
-├─ AI Engineering      RAG · Agents · Memory · Knowledge Graphs
-├─ Platform Systems    Model Gateway · Routing · Observability
-└─ Product Craft       TypeScript · React · Next.js · FastAPI
+├─ AI applications      RAG · model integrations · agent workflows
+├─ Developer tools      Electron · screen capture · desktop utilities
+└─ Product engineering  TypeScript · React · Next.js · FastAPI
 ```
 
-## Selected builds
+## Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/Chun556699/RAG-KnowledgeBase">RAG KnowledgeBase</a></h3>
-      <p>Production-oriented AI knowledge platform with hybrid retrieval, reranking, CRAG, ReAct agents, long-term memory, GraphRAG and quality evaluation.</p>
-      <p><code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>RAG</code> <code>Docker</code></p>
+      <h3><a href="https://github.com/Chun556699/Flash-Recorder">Flash Recorder</a></h3>
+      <p>An Electron screen recorder with cursor-centered zoom, customizable focus effects and flexible export options.</p>
+      <p><code>Electron</code> <code>JavaScript</code> <code>MediaRecorder</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Chun556699/ai-Integration">AI Gateway</a></h3>
-      <p>OpenAI-compatible multi-provider gateway featuring weighted routing, failover, token billing, API key management and operational monitoring.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>LLM Gateway</code></p>
+      <h3><a href="https://github.com/Chun556699/RAG-KnowledgeBase">RAG KnowledgeBase</a></h3>
+      <p>A retrieval-augmented knowledge system for building practical AI search and question-answering workflows.</p>
+      <p><code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>RAG</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 <a href="https://github.com/Chun556699/Transformer-parallel-translation">Transformer Translation</a></h3>
-      <p>An efficient neural machine translation system exploring data purification, adaptive curriculum learning and model compression.</p>
-      <p><code>PyTorch</code> <code>Transformer</code> <code>NLP</code> <code>CUDA</code></p>
+      <h3><a href="https://github.com/Chun556699/ai-Integration">AI Gateway</a></h3>
+      <p>An AI token relay and aggregation service that brings multiple model providers behind a unified entry point.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>LLM APIs</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/Chun556699/resume-builder">AI Resume Builder</a></h3>
-      <p>A privacy-friendly resume studio with live editing, eight layouts, PDF/PNG export, OCR import and AI-assisted writing.</p>
-      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Zustand</code></p>
+      <h3><a href="https://github.com/Chun556699/personal-homepage">Personal Homepage</a></h3>
+      <p>A static-first personal site and blog with a content management workflow and a minimal, typography-led design.</p>
+      <p><code>Next.js 16</code> <code>React</code> <code>Payload CMS</code> <code>Tailwind CSS</code></p>
     </td>
   </tr>
 </table>

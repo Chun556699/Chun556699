@@ -39,7 +39,7 @@
     <circle cx="24" cy="24" r="5" fill="#FB7185"/>
     <circle cx="43" cy="24" r="5" fill="#FBBF24"/>
     <circle cx="62" cy="24" r="5" fill="#34D399"/>
-    <text x="550" y="29" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">chunfei.dev / profile</text>
+    <text x="550" y="29" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">mychun.cn / profile</text>
 
     <g transform="translate(52 88)">
       <text fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">01</text>
