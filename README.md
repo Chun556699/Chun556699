@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Chunfei — AI systems and product engineering" />
-</div>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/Chun556699?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://www.mychun.cn"><img src="https://img.shields.io/badge/Read_the_Blog-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Read Chunfei's blog" /></a>
-  <a href="mailto:chun556699@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chunfei" /></a>
-</div>
 
 ## Hi, I'm Chunfei
 
