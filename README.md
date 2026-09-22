@@ -59,18 +59,6 @@ CURRENT FOCUS
 
 ## GitHub signal
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Chun556699&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Chun556699&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=0891B2&text_color=1F2937&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chun556699&show_icons=true&hide_border=true" alt="Chunfei's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Chun556699&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Chun556699&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=1F2937" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chun556699&layout=compact&hide_border=true" alt="Most used languages" />
-  </picture>
-</div>
 
 <br />
 
