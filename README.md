@@ -30,9 +30,9 @@ CURRENT FOCUS
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chun556699/ai-Integration">AI Gateway</a></h3>
-      <p>An AI token relay and aggregation service that brings multiple model providers behind a unified entry point.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>LLM APIs</code></p>
+      <h3><a href="https://github.com/Chun556699/resume-builder">AI Resume Builder</a></h3>
+      <p>An online resume studio with 8 templates, vector PDF/PNG export and DeepSeek-powered generation, JD tailoring and legacy-resume parsing.</p>
+      <p><code>Next.js</code> <code>DeepSeek</code> <code>Zustand</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Chun556699/personal-homepage">Personal Homepage</a></h3>
